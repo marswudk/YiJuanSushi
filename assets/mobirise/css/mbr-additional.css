@@ -50,6 +50,7 @@ body {
 .display-7 {
   font-family: 'Rubik', sans-serif;
   font-size: 1rem;
+  color: #000;
 }
 .display-7 > .mbr-iconfont {
   font-size: 1.6rem;
@@ -560,7 +561,9 @@ a.text-black:focus {
 .btn-form:hover {
   cursor: pointer;
 }
-a,
+a{
+  color:#70c770;
+}
 a:hover {
   color: #149dcc;
 }
@@ -1871,7 +1874,7 @@ body {
 .cid-qTkAaeaxX5 {
   padding-top: 30px;
   padding-bottom: 15px;
-  background-color: #d9dece;
+  background-color: #b2ccd2;
 }
 @media (max-width: 767px) {
   .cid-qTkAaeaxX5 .content {
@@ -1915,7 +1918,7 @@ body {
 }
 .cid-qTkAaeaxX5 .footer-lower .social-list .mbr-iconfont-social {
   font-size: 1.3rem;
-  color: #fff;
+  color: #000;
 }
 .cid-qTkAaeaxX5 .footer-lower .social-list .soc-item {
   margin: 0 .5rem;
